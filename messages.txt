@@ -1,2 +1,3 @@
 Pluto exists.
 Pluto exists and is a planet.
+Pluto exists and is a planet and should be included in our solar system.
