@@ -1,0 +1,1 @@
+This is the repository for the app by Aliya Clark and Kyla Wright.
