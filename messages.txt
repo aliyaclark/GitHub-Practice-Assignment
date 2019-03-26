@@ -6,3 +6,15 @@ Pluto exists and is a planet and should be included in our solar system with all
 PLUTO IS A GLORIFIED CHUNK OF ICE YOU FOOL!!!!!!
 hehe and you can't argue back because YOU'VE ALREADY DONE YOUR 5 COMMITS
 BAM!
+
+Types of plants to code:
+1. Tomato -- full sun
+2. Carrots -- full shade
+3. Zucchini -- full sun
+4. Potatoes -- partial shade
+5. Kale -- partial shade
+6. Broccoli -- full shade
+7. Beets -- full shade
+8. String beans -- full sun
+9. Spinach -- partial shade
+10. Bell pepper -- full sun
