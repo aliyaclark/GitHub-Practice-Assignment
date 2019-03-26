@@ -1,1 +1,2 @@
 Pluto exists.
+Pluto exists and is a planet.
